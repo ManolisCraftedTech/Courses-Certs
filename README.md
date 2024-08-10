@@ -4,6 +4,7 @@
   - [SOC LEVEL 1-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QHQFIKDBEJ.png)
   - [Into to cyber-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RFEV8BD7LH.png)
   - [Pre security path-Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YHQSJTYLDP.png)
+ - [Cyber Threat Management](https://www.credly.com/badges/32d4f145-6f64-42a1-b7b7-c3e6d1e2f19e/public_url)
   - [Cyber Defense- Tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DXOTFDP3AA.png)
   - [Networking Basics by cisco](https://www.credly.com/badges/df72e907-2932-48e2-bf14-79944f2cb961)
   - [Network Support and Security](https://www.credly.com/badges/24c286c0-f8cd-442f-accb-cd52ed628d8f)
